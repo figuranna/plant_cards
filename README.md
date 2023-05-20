@@ -15,4 +15,4 @@ Egyszerű fetch segítségével beolvassa a db.json nevű fájl tartalmát, majd
 - Ha kap adatot akkor meghívja a Card elem feltöltését.
 - Ha nem kap adatot a konténer akkor értesíti arról a felhasználót.
 
-![A weboldalról kép]()
+![A weboldalról kép](https://github.com/figuranna/plant_cards/assets/101461379/c63a1057-84f6-4c97-84c1-441d94510b4c)
