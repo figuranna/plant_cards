@@ -15,4 +15,4 @@ Egyszerű fetch segítségével beolvassa a db.json nevű fájl tartalmát, majd
 - Ha kap adatot akkor meghívja a Card elem feltöltését.
 - Ha nem kap adatot a konténer akkor értesíti arról a felhasználót.
 
-![image]()
+![A weboldalról kép]()
